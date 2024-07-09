@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&color=color=0076CE&height=67&duration=4000&center=true&lines=SFECTORIAN">
 </div> -->
 
-<div align="center">
+<div align="center">.
    <img width="259px" src="./assets/logo/sfectoriaArabic.png" loading="lazy"/>
  
 
@@ -20,7 +20,7 @@
 
 
 <div align="center">
-<img src="[./icons/VSCode-Dark.svg](https://www.svgrepo.com/show/342347/visual-studio-code.svg)" width="34"> 
+<img src="./icons/VSCode-Dark.svg" width="34"> 
 <img src="./icons/HTML.svg" width="34">
 <img src="./icons/CSS.svg" width="34"> 
 <img src="./icons/Figma-Dark.svg" width="34"> 
@@ -73,7 +73,7 @@ let Ahmed = {
   Family: ["Ghalleb","Sfectoria"],
   Backend: [ "Nodejs","Expressjs","Nestjs"],
   Frontend: ["HTML", "Javascript", "ReactJs", "Css","Bootstrap","MUI"],
-  Database: ["PostgreSql", "MySQL", "Mongodb"],
+  Database: ["PostgreSql", "MySQL", "Mongodb","FireBase"],
   Open_api : ["SwaggerUI"],
   ORM: ["Prisma","SEQUELIZE"],
   ODM: ["MONGOOSE"],
@@ -81,6 +81,25 @@ let Ahmed = {
   Challenge: "Every challenge is accepted"
 }
 ```
+### Connect with me
+
+[![website](./img/globe-light.svg)](https://sfectoria.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://sfectoria.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCkh9nFn2Oo0Izi_-tR7fV_Q#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCkh9nFn2Oo0Izi_-tR7fV_Q#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/company/sfectoria/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/company/sfectoria/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/sfectoria.tn/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/sfectoria.tn/#gh-dark-mode-only)
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" loading="lazy">
+
 
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
